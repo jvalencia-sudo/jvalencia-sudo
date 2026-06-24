@@ -11,7 +11,7 @@ Me muevo cómodo en todo el ciclo de vida de un producto: diseño de APIs, bases
 
 Persona tranquila y adaptable, con facilidad para aprender rápido y para enseñar. Creo en el poder de la tecnología y la colaboración para convertir ideas en soluciones con impacto positivo.
 
-🎓 Técnico Profesional en Programación de Sistemas de Información — actualmente cursando **Ingeniería en Sistemas**.
+🎓 Tecnólogo en Sistematización de Datos — actualmente cursando **Ingeniería en Sistemas**.
 
 ---
 
@@ -40,7 +40,7 @@ Persona tranquila y adaptable, con facilidad para aprender rápido y para enseñ
 
 ### 💼 Experiencia
 
-- **Desarrollador Full Stack** — *Different IT S S.A.S.* · Dic 2025 – actualidad
+- **Desarrollador Full Stack** — *Different IT S S.A.S.* · Dic 2025 – Jun 2026
 - **Desarrollador Full Stack** — *AgencyCIC* · Jun 2023 – Nov 2025
 
 He construido aplicaciones full stack en producción: APIs en .NET, Node.js y Python (FastAPI), fronts en Next.js y Angular, migraciones de base de datos, autenticación con Auth0, contenedores Docker y despliegue continuo en VPS y plataformas en la nube.
@@ -56,6 +56,6 @@ He construido aplicaciones full stack en producción: APIs en .NET, Node.js y Py
 ### 📫 ¿Hablamos?
 
 - 📧 **juanfelipevalencia268@gmail.com**
-- 🌎 Bogotá, Colombia
+- 🌎 Medellín, Antioquia, Colombia
 
 <p align="center"><i>Siempre aprendiendo, siempre construyendo. 🚀</i></p>
