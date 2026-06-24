@@ -1,27 +1,31 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Felipe Valencia</h1>
-<h3 align="center">Desarrollador Full Stack · de la base de datos al despliegue</h3>
+<h1 align="center">Hola, soy Juan Felipe Valencia 👋</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 ---
 
 ### 🚀 Sobre mí
 
-Desarrollador **Full Stack** con más de 3 años de experiencia construyendo y **llevando a producción** soluciones de extremo a extremo: desde el modelado de datos y la API, hasta la interfaz y la infraestructura que lo sostiene.
+Soy desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones y dejándolas funcionando en producción, desde la base de datos y la API hasta el front y el despliegue.
 
-Me muevo cómodo en todo el ciclo de vida de un producto: diseño de APIs, bases de datos (SQL/NoSQL), interfaces modernas y el *DevOps* que las pone en línea —contenedores, CI/CD, reverse proxies y HTTPS—. Disfruto resolviendo problemas reales (migraciones de base de datos, autenticación, despliegues, depuración en producción) y dejando las cosas **funcionando de verdad**.
+Me siento cómodo en todo el proceso: armar APIs, modelar bases de datos (SQL y NoSQL), hacer interfaces y también el lado de infraestructura como Docker, CI/CD, servidores y HTTPS. Lo que más disfruto es resolver problemas reales (migraciones de base de datos, autenticación, despliegues) y dejar todo andando.
 
-Persona tranquila y adaptable, con facilidad para aprender rápido y para enseñar. Creo en el poder de la tecnología y la colaboración para convertir ideas en soluciones con impacto positivo.
+Soy una persona tranquila y me adapto fácil a cualquier equipo. Aprendo rápido y me gusta compartir lo que sé.
 
-🎓 Tecnólogo en Sistematización de Datos — actualmente cursando **Ingeniería en Sistemas**.
+🎓 Tecnólogo en Sistematización de Datos. Actualmente curso Ingeniería en Sistemas.
 
 ---
 
 ### 🛠️ Tecnologías
 
-**Backend:** Python · Node.js · .NET
-**Frontend:** Next.js · Angular · JavaScript · CSS
-**Bases de datos:** PostgreSQL · SQL · NoSQL
-**DevOps & Nube:** Docker · Git · Linux · CI/CD (GitHub Actions) · Traefik · Azure · AWS · Vercel
-**Más:** Integración de IA / LLM · Auth0 · CRM
+**Backend:** Python, Node.js, .NET
+
+**Frontend:** Next.js, Angular, JavaScript, CSS
+
+**Bases de datos:** PostgreSQL, SQL, NoSQL
+
+**DevOps y nube:** Docker, Git, Linux, GitHub Actions, Traefik, Azure, AWS, Vercel
+
+**Otros:** IA / LLM, Auth0, CRM
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -40,22 +44,22 @@ Persona tranquila y adaptable, con facilidad para aprender rápido y para enseñ
 
 ### 💼 Experiencia
 
-- **Desarrollador Full Stack** — *Different IT S S.A.S.* · Dic 2025 – Jun 2026
-- **Desarrollador Full Stack** — *AgencyCIC* · Jun 2023 – Nov 2025
+**Desarrollador Full Stack** en Different IT S S.A.S. (dic 2025 a jun 2026)
 
-He construido aplicaciones full stack en producción: APIs en .NET, Node.js y Python (FastAPI), fronts en Next.js y Angular, migraciones de base de datos, autenticación con Auth0, contenedores Docker y despliegue continuo en VPS y plataformas en la nube.
+**Desarrollador Full Stack** en AgencyCIC (jun 2023 a nov 2025)
+
+He trabajado en aplicaciones full stack en producción: APIs en .NET, Node.js y Python, fronts en Next.js y Angular, migraciones de base de datos, autenticación con Auth0, contenedores con Docker y despliegues en VPS y en la nube.
 
 ---
 
 ### 📂 Proyectos
 
-🚧 *Próximamente...*
+🚧 Próximamente
 
 ---
 
-### 📫 ¿Hablamos?
+### 📫 Contacto
 
-- 📧 **juanfelipevalencia268@gmail.com**
-- 🌎 Medellín, Antioquia, Colombia
+📧 juanfelipevalencia268@gmail.com
 
-<p align="center"><i>Siempre aprendiendo, siempre construyendo. 🚀</i></p>
+🌎 Medellín, Antioquia, Colombia
