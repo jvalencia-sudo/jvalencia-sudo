@@ -54,7 +54,16 @@ He trabajado en aplicaciones full stack en producción: APIs en .NET, Node.js y 
 
 ### 📂 Proyectos
 
-🚧 Próximamente
+**MotoGestión**
+
+Sistema de gestión para talleres de motos que llevé a producción. Es una aplicación SaaS multi-tenant, donde cada taller se registra desde una landing pública y maneja sus datos de forma aislada gracias a Row Level Security de PostgreSQL. Incluye login cerrado con Auth0, panel con métricas, y gestión de órdenes de trabajo, clientes, motos, inventario y equipo con roles y permisos. Todo el backend corre en Docker sobre un VPS con Traefik y HTTPS, y el front en Vercel.
+
+🌐 Demo en vivo en [taller-mcd-motogestion.vercel.app](https://taller-mcd-motogestion.vercel.app/)
+
+Repositorios:
+
+- Backend en FastAPI, Python y PostgreSQL [core.Motogestion.api](https://github.com/jvalencia-sudo/core.Motogestion.api)
+- Frontend en Next.js, React y Tailwind [core.Motogestion.middle](https://github.com/jvalencia-sudo/core.Motogestion.middle)
 
 ---
 
